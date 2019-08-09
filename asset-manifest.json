@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pokedex/Dice-game/static/css/main.930dfbed.chunk.css",
+    "main.js": "/pokedex/Dice-game/static/js/main.2212ed94.chunk.js",
+    "main.js.map": "/pokedex/Dice-game/static/js/main.2212ed94.chunk.js.map",
+    "runtime~main.js": "/pokedex/Dice-game/static/js/runtime~main.c554e17d.js",
+    "runtime~main.js.map": "/pokedex/Dice-game/static/js/runtime~main.c554e17d.js.map",
+    "static/js/2.0f58faaa.chunk.js": "/pokedex/Dice-game/static/js/2.0f58faaa.chunk.js",
+    "static/js/2.0f58faaa.chunk.js.map": "/pokedex/Dice-game/static/js/2.0f58faaa.chunk.js.map",
+    "index.html": "/pokedex/Dice-game/index.html",
+    "precache-manifest.607a2aaf250fdfddba4c7572dd2765ee.js": "/pokedex/Dice-game/precache-manifest.607a2aaf250fdfddba4c7572dd2765ee.js",
+    "service-worker.js": "/pokedex/Dice-game/service-worker.js",
+    "static/css/main.930dfbed.chunk.css.map": "/pokedex/Dice-game/static/css/main.930dfbed.chunk.css.map"
+  }
+}
