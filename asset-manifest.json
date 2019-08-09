@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pokedex/Dice-game/static/css/main.930dfbed.chunk.css",
-    "main.js": "/pokedex/Dice-game/static/js/main.2212ed94.chunk.js",
-    "main.js.map": "/pokedex/Dice-game/static/js/main.2212ed94.chunk.js.map",
-    "runtime~main.js": "/pokedex/Dice-game/static/js/runtime~main.c554e17d.js",
-    "runtime~main.js.map": "/pokedex/Dice-game/static/js/runtime~main.c554e17d.js.map",
-    "static/js/2.0f58faaa.chunk.js": "/pokedex/Dice-game/static/js/2.0f58faaa.chunk.js",
-    "static/js/2.0f58faaa.chunk.js.map": "/pokedex/Dice-game/static/js/2.0f58faaa.chunk.js.map",
-    "index.html": "/pokedex/Dice-game/index.html",
-    "precache-manifest.607a2aaf250fdfddba4c7572dd2765ee.js": "/pokedex/Dice-game/precache-manifest.607a2aaf250fdfddba4c7572dd2765ee.js",
-    "service-worker.js": "/pokedex/Dice-game/service-worker.js",
-    "static/css/main.930dfbed.chunk.css.map": "/pokedex/Dice-game/static/css/main.930dfbed.chunk.css.map"
+    "main.css": "/Dice-game/static/css/main.930dfbed.chunk.css",
+    "main.js": "/Dice-game/static/js/main.b5f7a890.chunk.js",
+    "main.js.map": "/Dice-game/static/js/main.b5f7a890.chunk.js.map",
+    "runtime~main.js": "/Dice-game/static/js/runtime~main.d5f3f528.js",
+    "runtime~main.js.map": "/Dice-game/static/js/runtime~main.d5f3f528.js.map",
+    "static/js/2.0f58faaa.chunk.js": "/Dice-game/static/js/2.0f58faaa.chunk.js",
+    "static/js/2.0f58faaa.chunk.js.map": "/Dice-game/static/js/2.0f58faaa.chunk.js.map",
+    "index.html": "/Dice-game/index.html",
+    "precache-manifest.e9bab47ff8e841ba8b06c93413d59e04.js": "/Dice-game/precache-manifest.e9bab47ff8e841ba8b06c93413d59e04.js",
+    "service-worker.js": "/Dice-game/service-worker.js",
+    "static/css/main.930dfbed.chunk.css.map": "/Dice-game/static/css/main.930dfbed.chunk.css.map"
   }
 }
