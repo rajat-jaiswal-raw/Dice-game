@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Dice-game/static/css/main.930dfbed.chunk.css",
+    "main.css": "/Dice-game/static/css/main.c226a49c.chunk.css",
     "main.js": "/Dice-game/static/js/main.b5f7a890.chunk.js",
     "main.js.map": "/Dice-game/static/js/main.b5f7a890.chunk.js.map",
     "runtime~main.js": "/Dice-game/static/js/runtime~main.d5f3f528.js",
@@ -8,8 +8,8 @@
     "static/js/2.0f58faaa.chunk.js": "/Dice-game/static/js/2.0f58faaa.chunk.js",
     "static/js/2.0f58faaa.chunk.js.map": "/Dice-game/static/js/2.0f58faaa.chunk.js.map",
     "index.html": "/Dice-game/index.html",
-    "precache-manifest.e9bab47ff8e841ba8b06c93413d59e04.js": "/Dice-game/precache-manifest.e9bab47ff8e841ba8b06c93413d59e04.js",
+    "precache-manifest.4fac0b17154494c5ba89f7e809ce0df4.js": "/Dice-game/precache-manifest.4fac0b17154494c5ba89f7e809ce0df4.js",
     "service-worker.js": "/Dice-game/service-worker.js",
-    "static/css/main.930dfbed.chunk.css.map": "/Dice-game/static/css/main.930dfbed.chunk.css.map"
+    "static/css/main.c226a49c.chunk.css.map": "/Dice-game/static/css/main.c226a49c.chunk.css.map"
   }
 }
